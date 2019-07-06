@@ -1,4 +1,6 @@
-# Making a Square Sketch
+# Making a Lego Brick Part
+
+It varies its shape based off its dimensions!
 
 ### The Spec
 ![Three different lego bricks, with no posts for singletons, solid thin posts for one-wides, and hollow posts for n by n lego](legoSpec.png)
